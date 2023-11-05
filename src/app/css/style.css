@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.edge{
+    clip-path: polygon(100% 0,0 0,50% 100%);
+}
